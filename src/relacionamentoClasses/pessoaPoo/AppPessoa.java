@@ -1,4 +1,4 @@
-package PessoaPoo;
+package relacionamentoClasses.pessoaPoo;
 
 public class AppPessoa {
 

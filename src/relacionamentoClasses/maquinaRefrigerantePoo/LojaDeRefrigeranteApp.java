@@ -1,4 +1,4 @@
-package MaquinaRefrigerantePoo;
+package relacionamentoClasses.maquinaRefrigerantePoo;
 
 import java.util.Scanner;
 

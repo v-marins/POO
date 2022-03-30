@@ -1,4 +1,4 @@
-package MaquinaRefrigerantePoo;
+package relacionamentoClasses.maquinaRefrigerantePoo;
 
 public class MaquinaDeRefrigerante {
 
